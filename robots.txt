@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://nick-yangzj.github.io/sitemap.xml 
